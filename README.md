@@ -9,3 +9,4 @@
 2. 
 ## Personal well-being
 1. Do not buy a SIM card from non-offical channels. Those SIM cards sold by roadside dealers may not work properly or are super expensive. Ask one of the locals (friends, relatives, colleagues, etc.) for advice in advance.
+2. Ensure you have set the PIN for unlocking your SIM card and turned on your phone's screen lock. This is a must-do to prevent unauthorized access to your phone and everything associated with your SIM card such as your Alipay and WeChat accounts.
