@@ -8,7 +8,7 @@
 Check the tips on the following sites:
 * https://www.electricalsafetyfirst.org.uk/
 ### Personal belongings
-1. Attach something like a tag to each piece of your baggage, cell phone, and wallet. On the tag, put down your name and contact details. That way, if you lose one of your belongings, for example, at the airport or on a plane/train/bus/taxi, you will have a much higher chance of getting it back. Be prepared for the worst.
+1. Attach something like a tag to each piece of your baggage, cell phone, wallet, ID card, passport, and so on. On the tag, put down your name and contact details. That way, if you lose one of your belongings, for example, at the airport or on a plane/train/bus/taxi, you will have a much higher chance of getting it back. Be prepared for the worst.
 2. 
 ## Personal well-being
 1. Do not buy a SIM card from non-offical channels. Those SIM cards sold by roadside dealers may not work properly or are super expensive. Ask one of the locals (friends, relatives, colleagues, etc.) for advice in advance.
