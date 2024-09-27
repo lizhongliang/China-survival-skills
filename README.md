@@ -51,6 +51,7 @@ Check the tips on the following sites:
 
 ## 参考资料
 * 商务人士在华工作生活外国指引（2024年版）：https://www.gov.cn/lianbo/bumen/202403/content_6939097.htm
-* 外国人手机SIM卡获取指南外国人手机SIM卡获取指南：https://baijiahao.baidu.com/s?id=1802181333464456965 * 便民｜上海电信运营商推出外籍及港澳台人士“短期电话卡”：https://www.thepaper.cn/newsDetail_forward_26703253
+* 外国人手机SIM卡获取指南外国人手机SIM卡获取指南：https://baijiahao.baidu.com/s?id=1802181333464456965
+* 便民｜上海电信运营商推出外籍及港澳台人士“短期电话卡”：https://www.thepaper.cn/newsDetail_forward_26703253
 * 以下是我于2024年9月27日从中国移动客服处得到的答复：
  ![外国人到中国短期逗留最好买那种电话卡（中国移动）？](https://github.com/user-attachments/assets/0e9a80aa-e533-4eda-9438-d8564cb5985f)
