@@ -16,9 +16,12 @@ Check the tips on the following sites:
    * For people from Canada, you may consider getting a SIM card that works in both countries. One of such suppliers: https://www.italkbb.ca/chs/support-mobile.html
 2. Ensure you have set the PIN for unlocking your SIM card and turned on your phone's screen lock. This is a must-do to prevent unauthorized access to your phone and everything associated with your SIM card such as your Alipay and WeChat accounts.
 3. If your current network operator offers affordable roaming charges, you may consider using your current SIM card in China. Consult your operator for more details.
+4. Since a lot of people do travel from country to country today, many network operators offer affordable plans or data packages targeted at such travelers. For instance, China Mobile offers data packages to be used outside China (https://www.10086.cn/roaming/yewu/gmzx/indexc.html). Your operator probably also offers similar plans or packages to allow you to continue using their services in China. Consult your operator for more details.
 
 ## References
 * 外国商务人士在华工作生活指引（2024年版）: https://www.gov.cn/lianbo/bumen/202403/content_6939097.htm
 * 外国人手机SIM卡获取指南外国人手机SIM卡获取指南: https://baijiahao.baidu.com/s?id=1802181333464456965
 * 便民｜上海电信运营商推出外籍及港澳台人士“短期电话卡”: https://www.thepaper.cn/newsDetail_forward_26703253
+* ![外国人到中国短期逗留最好买那种电话卡（中国移动）？](https://github.com/user-attachments/assets/0e9a80aa-e533-4eda-9438-d8564cb5985f)
+
 # China-survival-skills (中文)
