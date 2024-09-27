@@ -22,7 +22,7 @@ Check the tips on the following sites:
 * 外国商务人士在华工作生活指引（2024年版）: https://www.gov.cn/lianbo/bumen/202403/content_6939097.htm
 * 外国人手机SIM卡获取指南外国人手机SIM卡获取指南: https://baijiahao.baidu.com/s?id=1802181333464456965
 * 便民｜上海电信运营商推出外籍及港澳台人士“短期电话卡”: https://www.thepaper.cn/newsDetail_forward_26703253
-* The following is the answer I got from China Mobile's customer service:
+* The following is the answer I got from China Mobile's customer service on Sep 27, 2024:
   ![外国人到中国短期逗留最好买那种电话卡（中国移动）？](https://github.com/user-attachments/assets/0e9a80aa-e533-4eda-9438-d8564cb5985f)
 
 # China-survival-skills (中文)
